@@ -4,5 +4,6 @@
 [packages."Hello World 2"]
 "1.0.0" = "https://alt.innatical.com/repo/package2.apkg"
 "1.0.1" = "https://alt.innatical.com/repo/package3.apkg"
+"2.0.0" = "https://alt.innatical.com/repo/package4.apkg"
 [packages."dependency"]
 "1.0.1" = "https://alt.innatical.com/repo/dependency.apkg"

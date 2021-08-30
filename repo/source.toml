@@ -1,5 +1,5 @@
 [packages]
 [packages."Hello World"]
-"1.0.0" = "https://alt.innatical.com/package.apkg"
+"1.0.0" = "https://alt.innatical.com/repo/package.apkg"
 [packages."dependency"]
-"1.0.1" = "https://alt.innatical.com/dependency.apkg"
+"1.0.1" = "https://alt.innatical.com/repo/dependency.apkg"

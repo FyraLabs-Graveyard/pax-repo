@@ -3,3 +3,4 @@
 "1.0.0" = "https://alt.innatical.com/repo/linux/amd64/apkg-1-0-0.apkg"
 [packages.alt]
 "1.0.0" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-0.apkg"
+"1.0.1" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-1.apkg"

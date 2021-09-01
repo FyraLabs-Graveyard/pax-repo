@@ -1,6 +1,7 @@
 [packages]
 [packages.apkg]
 "1.0.0" = "https://alt.innatical.com/repo/linux/arm64/apkg-1-0-0.apkg"
+"1.0.1" = "https://alt.innatical.com/repo/linux/arm64/apkg-1-0-1.apkg"
 [packages.alt]
 "1.0.0" = "https://alt.innatical.com/repo/linux/arm64/alt-1-0-0.apkg"
 "1.0.1" = "https://alt.innatical.com/repo/linux/arm64/alt-1-0-1.apkg"

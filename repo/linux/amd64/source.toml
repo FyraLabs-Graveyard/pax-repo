@@ -1,9 +1,23 @@
 [packages]
 [packages.apkg]
-"1.0.0" = "https://pax.innatical.com/repo/linux/amd64/apkg-1-0-0.apkg"
-"1.0.1" = "https://pax.innatical.com/repo/linux/amd64/apkg-1-0-1.apkg"
+"2.0.11" = "https://pax.innatical.com/repo/linux/amd64/apkg-2-0-11.apkg"
 [packages.pax]
-"1.0.0" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-0.apkg"
-"1.0.1" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-1.apkg"
-"1.0.2" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-2.apkg"
-"1.0.3" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-3.apkg"
+"2.0.0" = "https://pax.innatical.com/repo/linux/amd64/pax-2-0-0.apkg"
+[packages.bash]
+"5.1.8" = "https://pax.innatical.com/repo/linux/amd64/bash-5-1-8.apkg"
+[packages.binutils]
+"2.37" = "https://pax.innatical.com/repo/linux/amd64/binutils-2-37.apkg"
+[packages.glibc]
+"2.34" = "https://pax.innatical.com/repo/linux/amd64/glibc-2-34.apkg"
+[packages.libcap]
+"2.53" = "https://pax.innatical.com/repo/linux/amd64/libcap-2-37.apkg"
+[packages.linux]
+"5.10.73" = "https://pax.innatical.com/repo/linux/amd64/linux-5-10-73.apkg"
+[packages.openssl]
+"1.1.1l" = "https://pax.innatical.com/repo/linux/amd64/openssl-1-1-1l.apkg"
+[packages.gcc]
+"11.2.0" = "https://pax.innatical.com/repo/linux/amd64/gcc-11-2-0.apkg"
+[packages.make]
+"4.3" = "https://pax.innatical.com/repo/linux/amd64/make-4-3.apkg"
+[packages.ncurses]
+"6.2" = "https://pax.innatical.com/repo/linux/amd64/ncurses-6-2.apkg"

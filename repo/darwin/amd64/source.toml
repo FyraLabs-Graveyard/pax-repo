@@ -1,9 +1,0 @@
-[packages]
-[packages.apkg]
-"1.0.0" = "https://pax.innatical.com/repo/darwin/amd64/apkg-1-0-0.apkg"
-"1.0.1" = "https://pax.innatical.com/repo/darwin/amd64/apkg-1-0-1.apkg"
-[packages.pax]
-"1.0.0" = "https://pax.innatical.com/repo/darwin/amd64/pax-1-0-0.apkg"
-"1.0.1" = "https://pax.innatical.com/repo/darwin/amd64/pax-1-0-1.apkg"
-"1.0.2" = "https://pax.innatical.com/repo/darwin/amd64/pax-1-0-2.apkg"
-"1.0.3" = "https://pax.innatical.com/repo/darwin/amd64/pax-1-0-3.apkg"

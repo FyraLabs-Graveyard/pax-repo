@@ -1,9 +1,9 @@
 [packages]
 [packages.apkg]
-"1.0.0" = "https://alt.innatical.com/repo/linux/amd64/apkg-1-0-0.apkg"
-"1.0.1" = "https://alt.innatical.com/repo/linux/amd64/apkg-1-0-1.apkg"
-[packages.alt]
-"1.0.0" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-0.apkg"
-"1.0.1" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-1.apkg"
-"1.0.2" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-2.apkg"
-"1.0.3" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-3.apkg"
+"1.0.0" = "https://pax.innatical.com/repo/linux/amd64/apkg-1-0-0.apkg"
+"1.0.1" = "https://pax.innatical.com/repo/linux/amd64/apkg-1-0-1.apkg"
+[packages.pax]
+"1.0.0" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-0.apkg"
+"1.0.1" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-1.apkg"
+"1.0.2" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-2.apkg"
+"1.0.3" = "https://pax.innatical.com/repo/linux/amd64/pax-1-0-3.apkg"
